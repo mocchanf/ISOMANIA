@@ -1,6 +1,6 @@
 # ISOMANIA
 ============================
-🎬 ISOmania - MP4をDVD ISOに変換するアプリ
+🎬 ISOmania - MP4をDVD ISOに変換するMac専用アプリ
 ============================
 
 ■ 使い方（Mac）
