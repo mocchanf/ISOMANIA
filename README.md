@@ -7,7 +7,7 @@ MP4動画をドラッグ＆ドロップで、DVD用のISOファイルに変換�
 
 ## 🛠️ 使い方（macOS）
 
-1. [Releasesページ](https://github.com/your-username/ISOmania/releases) から `ISOmania.dmg` をダウンロード
+1. [Releasesページ](https://github.com/mocchanf/ISOmania/releases) から `ISOmania.dmg` をダウンロード
 2. `ISOmania.app` を開きます（初回は右クリック →「開く」で実行許可が必要な場合があります）
 3. ブラウザが起動し、変換アプリが表示されます
 4. MP4ファイルを選んで「変換する！」をクリック
